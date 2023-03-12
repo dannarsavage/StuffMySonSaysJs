@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Stuff My Son Says
+
+This consumes [StuffMySonSaysApi](https://github.com/dannarsavage/StuffMySonSaysApi) to display goofy quotes.   Clone that repo and start debugging in Visual Studio to serve that API on localhost, port 7210.  Clone this repo and type `npm start` at the command prompt to serve this over localhost, port 3000, and have one talk to the other.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
